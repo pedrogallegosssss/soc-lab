@@ -1,0 +1,22 @@
+Commands used: whoami, id, hostname
+
+This simulates discovery activity
+
+Attacker is trying to understand:
+- current user
+- system identity
+- permissions
+
+Mapped to:
+Tactic: Discovery
+Technique: T1082 (System Information Discovery)
+==============================================================
+Commands used: echo
+
+This simules execution activity
+
+Attacker is running commands on the system
+
+Mapped to:
+Tactic: Execution
+Technique: T1059 (Command and Scripting Interpreter)

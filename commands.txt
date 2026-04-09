@@ -1,0 +1,4 @@
+whoami
+id
+hostname
+echo "This is a test command"
